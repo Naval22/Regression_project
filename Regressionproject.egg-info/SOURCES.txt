@@ -1,0 +1,6 @@
+setup.py
+Regressionproject.egg-info/PKG-INFO
+Regressionproject.egg-info/SOURCES.txt
+Regressionproject.egg-info/dependency_links.txt
+Regressionproject.egg-info/requires.txt
+Regressionproject.egg-info/top_level.txt
